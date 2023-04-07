@@ -1,3 +1,4 @@
+//This is a product class
 package app;
 
 public class Products implements Comparable<Products> {
